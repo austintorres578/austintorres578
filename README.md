@@ -20,18 +20,18 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
 
 ### 🧱 Favorite Recent Projects
 
-- **[Community Food Bank of New Jersey](https://cfbnj.org/)**<br />  
+- **[Community Food Bank of New Jersey](https://cfbnj.org/)**
   **WordPress, HTML, CSS, JavaScript, PHP**, **Figma**.  
   A nonprofit platform supporting hunger relief with donation features, program info, and a custom **food bank locator**, powered by their API, which displays nearby food banks based on ZIP code and radius.
   Built to be easy for client to maintain after site handoff
 
-- **[Video Game Database](https://github.com/austintorres578/Game-Database-React)**<br /> 
-  **HTML, CSS, JavaScript, React, RAWG Video Game Database API.  
+- **[Video Game Database](https://github.com/austintorres578/Game-Database-React)** 
+  **HTML, CSS, JavaScript, React, RAWG Video Game Database API.**
   A custom video game discovery platform I built for personal use, designed to search, explore, and rank games using live data from the RAWG Video Game Database API.
   Users can search by game title, console, or genre, and every game is fully interactive with its own dynamic detail page.
 
-- **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**<br /> 
-  **HTML, CSS, JavaScript, React, WeatherAPI.  
+- **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**
+  **HTML, CSS, JavaScript, React, WeatherAPI.**
   A full-featured **React weather application** that replicates the design and functionality of IBM’s Weather Channel **Daily Weather** and **Three-Day Forecast** pages (Oct 2023).  
   Built for speed using React’s virtual DOM and powered by **WeatherAPI**, featuring dynamic backgrounds, forecasts, and local storage caching.
 
