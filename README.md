@@ -19,4 +19,4 @@ Recently I've been practicing with new technologies and libraries. Some of those
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl)
