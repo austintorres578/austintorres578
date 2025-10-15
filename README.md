@@ -12,10 +12,5 @@ I am a Frontend developer who develops using React, JavaScript, TypeScript. I've
 
 ### Favorite Recent Projects 🚧
 - [Community Food Bank OF New Jersey](https://cfbnj.org/) - Built in Wordpress with HTML,CSS,Javascript, and PHP and designed in Figma. This site is a nonprofit platform that collects donations, provides local food bank locations, informs site visitors to different hunger fighting programs. This sites highlight feature is its food bank locator, where I took in data from the CFBNJ Food bank API and display food banks around the provided zipcode and mile radius. 
-- [Floors Like Glass](https://github.com/WAbby404/floors-like-glass) - Built with React, JavaScript, React Router and designed in Figma. Floors Like Glass is a flooring Contractor site designed & built for client based in New Hampton, NY
-- [Eat This](https://github.com/WAbby404/eat-this) - Built with React, JavaScript, RESTful API, SASS and React Router. Eat This is an interactive recipe search web app to fulfill all of your hungry needs
-- [Playlists and Genres](https://github.com/WAbby404/ts-spotify) - Built with React, TypeScript, Material UI, Tailwind and utilizes Spotifys API. Designed in Figma. Playlists and Genres is a Spotify Playlist generating app, select a playlist and genre(s) to build a playlist from
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl)
