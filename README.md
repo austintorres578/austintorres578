@@ -13,4 +13,7 @@ I am a Frontend developer who develops using React and JavaScript. I've recently
 ### Favorite Recent Projects 🚧
 - [Community Food Bank OF New Jersey](https://cfbnj.org/) - Built in Wordpress with HTML,CSS,Javascript, and PHP and designed in Figma. This site is a nonprofit platform that collects donations, provides local food bank locations, informs site visitors to different hunger fighting programs. This sites highlight feature is its food bank locator, where I took in data from the CFBNJ Food bank API and display food banks around the provided zipcode and mile radius. 
 
+- [Weather Channel]([https://cfbnj.org/](https://bejewelled-unicorn-5837be.netlify.app/)) - A weather app built to closely replicate a real-life weather tracking platform, Built with HTML, CSS, Javascript, React. This website follows the exact design and functionality of IBM’s Weather Channel Daily Weather page and Three-Day Forecast page from October 2023. It is developed in React to ensure a lightning-fast browsing experience using the virtual DOM.
+All weather functionality is powered by the WeatherAPI.
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl)
