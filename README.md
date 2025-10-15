@@ -24,7 +24,7 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
   Built with **WordPress, HTML, CSS, JavaScript, and PHP**, and designed in **Figma**.  
   A nonprofit platform supporting hunger relief with donation features, program info, and a custom **food bank locator**, powered by their API, which displays nearby food banks based on ZIP code and radius.
 
-- **[Weather Channel Clone](https://bejewelled-unicorn-5837be.netlify.app/)**  
+- **[Weather Channel Clone](https://github.com/austintorres578/React-weather-app)**  
   A full-featured **React weather application** that replicates the design and functionality of IBM’s Weather Channel **Daily Weather** and **Three-Day Forecast** pages (Oct 2023).  
   Built for speed using React’s virtual DOM and powered by **WeatherAPI**, featuring dynamic backgrounds, forecasts, and local storage caching.
 
