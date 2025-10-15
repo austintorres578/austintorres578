@@ -30,7 +30,7 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
   A custom video game discovery platform I built for personal use, designed to search, explore, and rank games using live data from the RAWG Video Game Database API.
   Users can search by game title, console, or genre, and every game is fully interactive with its own dynamic detail page.
 
-- **[Weather Channel Clone](https://github.com/austintorres578/Weather-Channel-React)**
+- **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**
   **HTML, CSS, JavaScript, React, WeatherAPI.  
   A full-featured **React weather application** that replicates the design and functionality of IBM’s Weather Channel **Daily Weather** and **Three-Day Forecast** pages (Oct 2023).  
   Built for speed using React’s virtual DOM and powered by **WeatherAPI**, featuring dynamic backgrounds, forecasts, and local storage caching.
