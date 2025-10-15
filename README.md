@@ -26,12 +26,12 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
   Built to be easy for client to maintain after site handoff
 
 - **[Video Game Database](https://github.com/austintorres578/Game-Database-React)**<br />
-  **HTML, CSS, JavaScript, React, RAWG Video Game Database API.**
+  **HTML, CSS, JavaScript, React, RAWG Video Game Database API.**<br />
   A custom video game discovery platform I built for personal use, designed to search, explore, and rank games using live data from the RAWG Video Game Database API.
   Users can search by game title, console, or genre, and every game is fully interactive with its own dynamic detail page.
 
 - **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**<br />
-  **HTML, CSS, JavaScript, React, WeatherAPI.**
+  **HTML, CSS, JavaScript, React, WeatherAPI.**<br />
   A full-featured **React weather application** that replicates the design and functionality of IBM’s Weather Channel **Daily Weather** and **Three-Day Forecast** pages (Oct 2023).  
   Built for speed using React’s virtual DOM and powered by **WeatherAPI**, featuring dynamic backgrounds, forecasts, and local storage caching.
 
