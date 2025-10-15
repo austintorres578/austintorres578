@@ -1,5 +1,5 @@
 ## Hey, I'm Austin Torres 👋
-I am a Frontend developer who develops using React, JavaScript, TypeScript. I've recently been practicing with new technologies and libraries. Some of those are Python, Linux, C, SQL, Firebase and the list goes on...(Projects for more details)
+I am a Frontend developer who develops using React and JavaScript. I've recently been practicing with new technologies and libraries. Some of those are Python, Linux, C, SQL, Firebase and the list goes on...(Projects for more details)
 
 ### Get In Touch 📞
 <a href="https://austintorres578.github.io/Web-dev-portfolio/"><img alt="Portfolio Site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
