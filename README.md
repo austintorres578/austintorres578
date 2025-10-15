@@ -30,5 +30,6 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl)
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl&commits_year=2025)
+
 
