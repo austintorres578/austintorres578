@@ -25,6 +25,10 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
   A nonprofit platform supporting hunger relief with donation features, program info, and a custom **food bank locator**, powered by their API, which displays nearby food banks based on ZIP code and radius.
   Built to be easy for client to maintain after site handoff
 
+  - **[Soylent Ecommerce](https://symphonious-frangipane-463737.netlify.app/)**<br />
+  **HTML, CSS, JavaScript, React, ExpressJS, Stripe Payment Processor** .  
+  Ecomm Site based off soylent.com's design and functionality. Connected to stripe for transaction functionality, as well as remakes of Soylants web design / animations. Also connected to a Express backend in order to provide secure payment processes
+
 - **[Video Game Database](https://github.com/austintorres578/Game-Database-React)**<br />
   **HTML, CSS, JavaScript, React, RAWG Video Game Database API.**<br />
   A custom video game discovery platform I built for personal use, designed to search, explore, and rank games using live data from the RAWG Video Game Database API.
