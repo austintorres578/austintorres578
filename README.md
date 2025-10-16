@@ -23,7 +23,7 @@ I’m a Frontend Developer specializing in **React** and **JavaScript**, current
 ### 🧱 Favorite Recent Projects
 
 - **[Community Food Bank of New Jersey](https://cfbnj.org/)**  
-  **WordPress, HTML, CSS, JavaScript, PHP, Figma**  
+  **WordPress, HTML, CSS, JavaScript, Figma**  
   Developed a nonprofit website with donation features, program pages, and a custom **Food Bank Locator** integrating their external API.  
   Built with a clean CMS workflow to ensure easy maintenance after launch.
 
