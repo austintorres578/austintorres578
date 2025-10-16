@@ -44,6 +44,6 @@ I’m a Frontend Developer specializing in **React** and **JavaScript**, current
 
 ---
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAbby404&show_icons=true&theme=nightowl&commits_year=2024)
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintorres578&show_icons=true&theme=nightowl&commits_year=2024)
 
 
