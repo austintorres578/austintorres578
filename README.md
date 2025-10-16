@@ -27,7 +27,7 @@ I’m a Frontend Developer specializing in **React** and **JavaScript**, current
   Developed a nonprofit website with donation features, program pages, and a custom **Food Bank Locator** integrating their external API.  
   Built with a clean CMS workflow to ensure easy maintenance after launch.
 
-- **[Soylent Ecommerce](https://symphonious-frangipane-463737.netlify.app/)**  
+- **[Soylent Ecommerce](https://github.com/austintorres578/Soylant-Ecomm-React)**  
   **HTML, CSS, JavaScript, React, Express.js, Stripe**  
   A full ecommerce clone inspired by Soylent.com, including custom animations and responsive UI.  
   Integrated **Stripe Checkout** and a secure **Express backend** to handle real payment flows.
