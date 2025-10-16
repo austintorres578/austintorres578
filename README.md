@@ -1,6 +1,7 @@
 ## Hey, I'm Austin Torres 👋
 
-I am a Frontend Developer specializing in **React** and **JavaScript**. Recently, I’ve been expanding my skills into new technologies such as **Python**, **Linux**, **C**, **SQL**, and **Firebase**. *(Check out my projects below for more details!)*
+I’m a Frontend Developer specializing in **React** and **JavaScript**, currently expanding into **Python**, **Linux**, **C**, **SQL**, and **Firebase**.  
+*Explore my projects below to see what I’ve been building.*
 
 ---
 
@@ -14,30 +15,36 @@ I am a Frontend Developer specializing in **React** and **JavaScript**. Recently
 
 ### 🛠️ Languages & Tools
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 ---
 
 ### 🧱 Favorite Recent Projects
 
-- **[Community Food Bank of New Jersey](https://cfbnj.org/)**<br />
-  **WordPress, HTML, CSS, JavaScript, PHP**, **Figma**.  
-A nonprofit platform supporting hunger relief with donation features, program info, and a custom **food bank locator**, powered by their API, which displays nearby food banks based on ZIP code and radius.
-Built to be easy for client to maintain after site handoff
+- **[Community Food Bank of New Jersey](https://cfbnj.org/)**  
+  **WordPress, HTML, CSS, JavaScript, PHP, Figma**  
+  Developed a nonprofit website with donation features, program pages, and a custom **Food Bank Locator** integrating their external API.  
+  Built with a clean CMS workflow to ensure easy maintenance after launch.
 
-- **[Soylent Ecommerce](https://symphonious-frangipane-463737.netlify.app/)**<br />
-**HTML, CSS, JavaScript, React, ExpressJS, Stripe Payment Processor** .  
-Ecomm Site based off soylent.com's design and functionality. Connected to stripe for transaction functionality, as well as remakes of Soylants web design / animations. Also connected to a Express backend in order to provide secure payment processes
+- **[Soylent Ecommerce](https://symphonious-frangipane-463737.netlify.app/)**  
+  **HTML, CSS, JavaScript, React, Express.js, Stripe**  
+  A full ecommerce clone inspired by Soylent.com, including custom animations and responsive UI.  
+  Integrated **Stripe Checkout** and a secure **Express backend** to handle real payment flows.
 
-- **[Video Game Database](https://github.com/austintorres578/Game-Database-React)**<br />
-  **HTML, CSS, JavaScript, React, RAWG Video Game Database API.**<br />
-  A custom video game discovery platform I built for personal use, designed to search, explore, and rank games using live data from the RAWG Video Game Database API.
-  Users can search by game title, console, or genre, and every game is fully interactive with its own dynamic detail page.
+- **[Video Game Database](https://github.com/austintorres578/Game-Database-React)**  
+  **React, JavaScript, RAWG API, HTML, CSS**  
+  A custom game discovery platform that lets users search by title, console, or genre.  
+  Each game includes a dynamic detail page with live data pulled from the RAWG API.
 
-- **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**<br />
-  **HTML, CSS, JavaScript, React, WeatherAPI.**<br />
-  A full-featured **React weather application** that replicates the design and functionality of IBM’s Weather Channel **Daily Weather** and **Three-Day Forecast** pages (Oct 2023).  
-  Built for speed using React’s virtual DOM and powered by **WeatherAPI**, featuring dynamic backgrounds, forecasts, and local storage caching.
+- **[Weather Channel](https://github.com/austintorres578/Weather-Channel-React)**  
+  **React, JavaScript, WeatherAPI, HTML, CSS**  
+  A high-performance weather application replicating IBM’s Weather Channel UI.  
+  Features real-time forecasts, dynamic backgrounds, and local storage for saved locations.
 
 ---
 
