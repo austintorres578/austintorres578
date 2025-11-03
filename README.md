@@ -28,7 +28,7 @@ I’m a Frontend Developer specializing in **React** and **JavaScript**, current
   Built with a clean CMS workflow to ensure easy maintenance after launch.
 
 - **[Soylent Ecommerce](https://github.com/austintorres578/Soylant-Ecomm-React)**  
-  **HTML, CSS, JavaScript, React, Express.js, Stripe**  
+  **HTML, CSS, JavaScript, Typescript, React, Express.js, Stripe**  
   A full ecommerce clone inspired by Soylent.com, including custom animations and responsive UI.  
   Integrated **Stripe Checkout** and a secure **Express backend** to handle real payment flows.
 
