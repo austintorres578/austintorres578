@@ -24,8 +24,7 @@ I’m a Frontend Developer specializing in **React** and **JavaScript**, current
 
 - **[Community Food Bank of New Jersey](https://cfbnj.org/)**  
   **WordPress, HTML, CSS, JavaScript, Figma**  
-  Developed a nonprofit website with donation features, program pages, and a custom **Food Bank Locator** integrating their external API.  
-  Built with a clean CMS workflow to ensure easy maintenance after launch.
+  Developed a nonprofit website with donation features, program pages, and a custom **Food Bank Locator** integrating their external API. Built with a clean CMS workflow to ensure easy maintenance after launch.
 
 - **[Soylent Ecommerce](https://github.com/austintorres578/Soylant-Ecomm-React)**  
   **HTML, CSS, JavaScript, Typescript, React, Express.js, Stripe**  
